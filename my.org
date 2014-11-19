@@ -1,0 +1,18 @@
+* Kaldi
+
+** kaldi data prepare
+1. we are the world
+2. you are bad
+
+** table
+| one | two | three |
+| 2   | 2   | 3     |
+
+** code
+#+begin_src cpp
+#include <stdio.h>
+int main
+{ 
+    return 0;
+}
+#+end_src
