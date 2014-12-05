@@ -16,3 +16,6 @@ int main
     return 0;
 }
 #+end_src
+
+*** fomula
+$$P(\mu|D) = \frac{P(\mu)P(D|\mu)}{P(D)} $$ 
