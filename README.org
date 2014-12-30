@@ -1,3 +1,8 @@
+* vim conifgure
+simple vim configuration file .vimrc & plugins
+
+** vimrc
+#+begin_example
 set nocompatible " be iMproved
 syntax on
 set nu
@@ -7,3 +12,7 @@ set sw=4
 set autoindent
 let g:SuperTabRetainCompletionType=2
 let g:SuperTabDefaultCompletionType="<C-n>"
+#+end_example
+
+** plugin
++ supertab
