@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.tabSize": 2,
+
+    "vim.hlsearch": true,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true
+    }
+}
